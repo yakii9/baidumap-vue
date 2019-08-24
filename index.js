@@ -1,7 +1,7 @@
 const Map = require('./index.vue')
 
 uploader.install = function (Vue) {
-  Vue.component('baidu-map-vue', map)
+  Vue.component('baidu-map-vue', Map)
 }
 
 module.exports = Map
