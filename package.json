@@ -1,0 +1,23 @@
+{
+  "name": "baidumap-vue",
+  "version": "1.0.0",
+  "description": "This is a vue element for baidumap with some sealed APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yakii9/baidumap-vue.git"
+  },
+  "keywords": [
+    "baidumap",
+    "vue-component"
+  ],
+  "author": "shiwen duan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yakii9/baidumap-vue/issues"
+  },
+  "homepage": "https://github.com/yakii9/baidumap-vue#readme"
+}
