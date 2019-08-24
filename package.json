@@ -1,6 +1,6 @@
 {
   "name": "baidumap-vue",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This is a vue element for baidumap with some sealed APIs",
   "main": "index.js",
   "scripts": {
