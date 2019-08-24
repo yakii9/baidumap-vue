@@ -82,7 +82,7 @@
 7. initMap (center, zoomLevel = 11)  初始化地图，center为数组 [lng, lat]
 8. getMap ()  返回map实例
 9. removeAllOverlayers ()  清除所有覆盖物
-10. reset ()  重制地图
+10. reset ()  重置地图
 11. generateSearchPanel (inputId, resultPanelId) 添加地址搜素的功能
 
 ## 使用方法
